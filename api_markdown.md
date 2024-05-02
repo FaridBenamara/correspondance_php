@@ -47,21 +47,25 @@
 |                | http://konatus.site:8012/portefolio/demandwe | List of portefolio demand with workelement (for screen 1) |
 |                | http://konatus.site:8012/next_gate           | To calculate nextgate dates                     |
 |                | http://konatus.site:8012/natdeadline          | List nature deadline                            |
-|                | http://konatus.site:8012/product_line         |                                                 |
-|                | http://konatus.site:8012/formule15            |                                                 |
-|                | http://konatus.site:8012/formule10            |                                                 |
-|                | http://konatus.site:8012/formule19            |                                                 |
-|                | http://konatus.site:8012/formule3             |                                                 |
-|                | http://konatus.site:8012/formule3inv          |                                                 |
-|                | http://konatus.site:8012/formule9             |                                                 |
-|                | http://konatus.site:8012/formule5             |                                                 |
-|                | http://konatus.site:8012/team_we_phase        |                                                 |
-|                | http://konatus.site:8012/spent                |                                                 |
-|                | http://konatus.site:8012/formule13            |                                                 |
-|                | http://konatus.site:8012/formule14            |                                                 |
-|                | http://konatus.site:8012/formule5bis          |                                                 |
-|                | http://konatus.site:8012/formule25            |                                                 |
-|                | http://konatus.site:8012/formule25bis         |                                                 |
-|                | http://konatus.site:8012/formule12            |                                                 |
-|                | http://konatus.site:8012/formule1             |                                                 |
-|                | http://konatus.site:8012/formule1bis          |                                                 |
+|----------------------------------------|-----------------------------------------------------------|--------------------|
+| http://konatus.site:8012/formule1      | Update priorities of WE by P                             | Screen 1 Project Edit |
+| http://konatus.site:8012/formule1bis   | Update priorities of P by workelement                    | Screen 4 WE Edit    |
+| http://konatus.site:8012/formule3bis   | Project value by WE                                      | Screen 1 Project Edit |
+| http://konatus.site:8012/formule3      | WE value by project P                                    | Screen 4 WE Edit    |
+| http://konatus.site:8012/formule5      | Budget E                                                  | Screen 1 & 2A       |
+| http://konatus.site:8012/formule5bis   | Budget R                                                  | Screen 1 & 2A       |
+| http://konatus.site:8012/spent         | Get spent By P                                            |                      |
+| http://konatus.site:8012formule7       | Earn value                                                | Screen 2A           |
+| http://konatus.site:8012/formule10     | %linACCP                                                  | Screen 1 & 2A       |
+| http://konatus.site:8012/formule9      | %Acc Projet                                               | Screen 1 & 2A       |
+| http://konatus.site:8012/formule13     | Load per job                                              |                      |
+| http://konatus.site:8012/formule14     | Load P / phase                                            |                      |
+| http://konatus.site:8012/next_gate     | Start date next phase                                     |                      |
+| http://konatus.site:8012/formule15     | Get: load_reel, duration_demande, duration_engage         |                      |
+| http://konatus.site:8012/formule25     | Load per date d and time frame t per team E or R          |                      |
+| http://konatus.site:8012/formule25bis  | realEstimate: time Frame < current date                   |                      |
+| http://konatus.site:8012/formule19     | After Opt / We new Date                                   |                      |
+| http://konatus.site:8012/formule21     | Load R                                                    |                      |
+| http://konatus.site:8012/formule13     | load per job                                              |                      |
+| http://konatus.site:8012/formule26     |total CT 26                                                |                      |
+
